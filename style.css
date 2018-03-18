@@ -1,0 +1,20 @@
+body{
+	background-color:black;
+}
+h2{
+	color:white;
+	font-family:courier new;
+	font-size:50px;
+}
+label{
+	color:white;
+	font-family:courier new;
+	font-size:25px;
+}
+h3{
+	color:white;
+	font-family:courier new;
+	font-size:20px;
+	text-decoration:underline;
+	padding-top:30px;
+}
